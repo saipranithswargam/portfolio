@@ -1,0 +1,84 @@
+{
+  "hero": {
+    "title": "Little About Me ..."
+  },
+  "background": {
+    "title": "Background",
+    "description": "B.Tech in Computer Science from IIIT Sricity. Builder at heart. I've shipped mobile apps, scalable cloud systems, and real-time platforms. From architecting observability that reduced customer issues, to designing stream engines pushing 955MB/s, to scaling order systems that handled 1000+ live transactions — I thrive at the intersection of backend, cloud, and product. I've worked across Flutter, Next.js, Docker, Kafka, and GCP/AWS, turning complex stacks into reliable, user-first solutions."
+  },
+  "skills": [
+    {
+      "title": "Languages & Databases",
+      "items": [
+        "Python",
+        "C",
+        "C++",
+        "JavaScript",
+        "Java",
+        "Go",
+        "MySQL",
+        "MongoDB",
+        "Redis",
+        "PostgreSQL",
+        "Dart"
+      ]
+    },
+    {
+      "title": "Frameworks & Libraries",
+      "items": [
+        "React.js",
+        "Node.js",
+        "Django",
+        "Socket.IO",
+        "Pandas",
+        "Flink",
+        "Kafka",
+        "Flutter",
+        "Celery",
+        "Next.js"
+      ]
+    },
+    {
+      "title": "Tools & Platforms",
+      "items": [
+        "Docker",
+        "AWS",
+        "GCP",
+        "Firebase",
+        "Git",
+        "Netlify",
+        "DigitalOcean"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "title": "How I Think",
+      "description": "I approach problems like systems — break them down, design for scale, and keep the user experience at the center. Whether it' tuning APIs for faster responses, wiring up observability that prevents customer pain, or balancing clean code with delivery speed, I focus on building things that are reliable, explainable, and built to grow."
+    },
+    {
+      "title": "What I've Shipped",
+      "description": "Mobile features that boosted engagement, a Next.js site that cut costs by 25%, real-time order systems powering thousands of transactions, and a streaming engine that pushed nearly a gigabyte per second. I’ve shipped across Flutter, Docker, Kafka, and GCP/AWS — from hackathon-winning AI SEO tools to full-stack apps that people actually use."
+    }
+  ],
+  "connect": {
+    "title": "Let's Connect",
+    "links": [
+      {
+        "href": "https://x.com/saipranith0612",
+        "text": "Twitter",
+        "icon": "twitter"
+      },
+      {
+        "href": "https://linkedin.com/in/saipranithswargam",
+        "text": "LinkedIn",
+        "icon": "linkedin"
+      },
+      {
+        "href": "https://github.com/saipranithswargam",
+        "text": "GitHub",
+        "icon": "github"
+      }
+    ]
+  }
+}

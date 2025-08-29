@@ -1,0 +1,11 @@
+{
+  "resume": {
+    "iframeSrc": "/saipranith_resume_v4.pdf",
+    "title": "My Resume"
+  },
+  "fallback": {
+    "text": "Having trouble viewing?",
+    "linkText": "Open the PDF in a new tab",
+    "linkHref": "/saipranith_resume_v4.pdf"
+  }
+}

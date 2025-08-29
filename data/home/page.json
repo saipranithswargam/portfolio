@@ -1,0 +1,38 @@
+{
+  "hero": {
+    "greeting": "Hey 👋🏻 This is ...",
+    "name": "Saipranith Swargam",
+    "description": "I'm a software engineer passionate about building scalable, cloud-native, and data-driven systems. From optimizing performance and reliability to crafting seamless web and mobile experiences, I bring an end-to-end perspective to development. With experience across modern stacks and cloud platforms, I focus on delivering solutions that are efficient, impactful, and built to last.",
+    "avatarSrc": "/images/avatar.jpg",
+    "avatarAlt": "Saipranith Swargam",
+    "ctaButtons": [
+      {
+        "href": "/about",
+        "text": "About",
+        "className": "bg-blue-300 text-gray-900 font-bold px-6 py-2 rounded-lg hover:bg-blue-400 transition"
+      },
+      {
+        "href": "/contact",
+        "text": "Let's Connect",
+        "className": "bg-zinc-800 px-6 py-2 font-bold rounded-lg hover:bg-zinc-700 transition"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "title": "What I've Been Creating...",
+      "cards": [
+        {
+          "title": "Full-Stack Development",
+          "icon": "💻",
+          "description": "I build robust, scalable applications using modern technologies. From frontend frameworks like React and Next.js to backend services with Node.js, Python, and cloud platforms. I focus on creating seamless user experiences and efficient, maintainable code that solves real-world problems."
+        },
+        {
+          "title": "Open Source & Side Projects",
+          "icon": "🚀",
+          "description": "I actively contribute to open-source projects and build side projects to explore new technologies and solve interesting problems. From AI-powered tools to productivity apps, I love experimenting with emerging tech and sharing knowledge with the developer community."
+        }
+      ]
+    }
+  ]
+}

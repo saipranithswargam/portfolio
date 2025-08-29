@@ -1,0 +1,43 @@
+{
+  "hero": {
+    "title": "Let's Connect!",
+    "description": "Always excited to talk about building systems, impactful tech talks. Whether it's collaborating on a project, or just exchanging ideas, feel free to reach out. Let's connect and create something meaningful together!"
+  },
+  "contactMethods": [
+    {
+      "type": "email",
+      "title": "Email",
+      "icon": "mail",
+      "link": "mailto:saipranithswargam@gmail.com",
+      "text": "saipranithswargam@gmail.com"
+    },
+    {
+      "type": "social",
+      "title": "Find me on",
+      "links": [
+        {
+          "platform": "twitter",
+          "url": "https://x.com/saipranith0612",
+          "icon": "twitter"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/in/saipranithswargam",
+          "icon": "linkedin"
+        },
+        {
+          "platform": "github",
+          "url": "https://github.com/saipranithswargam",
+          "icon": "github"
+        }
+      ]
+    }
+  ],
+  "funFact": {
+    "text": "Fun fact: My code runs on coffee & curiosity. Let's chat about AI, blockchain, or any crazy idea!"
+  },
+  "backButton": {
+    "text": "← Back to Home",
+    "href": "/"
+  }
+}

@@ -1,0 +1,117 @@
+{
+    "hero": {
+      "title": "Professional Journey"
+    },
+    "timeline": [
+      {
+        "company": "Cyware",
+        "icon": "briefcase",
+        "position": "Software Engineer I",
+        "location": "Bengaluru, IN",
+        "duration": "Aug 2025 - Present",
+        "iconType": "rocket",
+        "responsibilities": [
+          "Built multiple mobile-app features in Flutter, boosting usability and increasing engagement by 15%",
+          "Developed new company website in Next.js, improving load times, SEO, and organic traffic by 20%, while reducing API calls to cut CMS costs 25%",
+          "Solved AWS SES rate limiting by implementing a queue-based email system, reducing failures by 40%"
+        ]
+      },
+      {
+        "company": "Cyware",
+        "icon": "code",
+        "position": "Software Engineering Intern",
+        "location": "Bengaluru, IN",
+        "duration": "Dec 2024 - Jul 2025",
+        "iconType": "book",
+        "responsibilities": [
+          "Architected and implemented application-level observability metrics, enabling early detection of issues and reducing customer-reported problems by 30%",
+          "Optimized database queries and API performance, reducing response latency by 83%",
+          "Adapted quickly to diverse technology stacks, demonstrating strong problem-solving skills"
+        ]
+      },
+      {
+        "company": "Bitezy",
+        "icon": "briefcase",
+        "position": "Full Stack Developer",
+        "location": "Remote",
+        "duration": "Mar 2024 - Aug 2024",
+        "iconType": "rocket",
+        "responsibilities": [
+          "Engineered multi-client architecture supporting restaurants, customers, and delivery partners",
+          "Implemented WebSocket-based live order tracking, improving communication efficiency by 40%",
+          "Optimized system performance to handle 1000+ live orders, driving 4L revenue growth"
+        ]
+      },
+      {
+        "company": "Sellwase",
+        "icon": "briefcase",
+        "position": "Freelance Web Developer",
+        "location": "Remote",
+        "duration": "May 2024 - May 2024",
+        "iconType": "rocket",
+        "responsibilities": [
+          "Optimized UI/UX across multiple pages, improving responsiveness and accessibility",
+          "Redesigned frontend to ensure seamless mobile and desktop experiences",
+          "Integrated Google Apps Script for backend automation, streamlining workflows"
+        ]
+      },
+      {
+        "company": "Petlevert",
+        "icon": "code",
+        "position": "MERN Developer",
+        "location": "Remote",
+        "duration": "Apr 2023 - Dec 2023",
+        "iconType": "rocket",
+        "responsibilities": [
+          "Developed responsive React.js web application, improving user retention by 20%",
+          "Boosted front-end and back-end efficiency by 30% through strategic RESTful API design",
+          "Streamlined CI/CD processes and ensured 99.9% uptime with Netlify and Digital Ocean deployments"
+        ]
+      },
+      {
+        "company": "Gemseason",
+        "icon": "briefcase",
+        "position": "Web Developer",
+        "location": "Remote",
+        "duration": "Oct 2022 - Dec 2022",
+        "iconType": "book",
+        "responsibilities": [
+          "Optimized 20+ web templates with HTML, CSS, JavaScript, and Liquid.js, improving delivery speed by 40%",
+          "Boosted organic search traffic by 30% through SEO optimization"
+        ]
+      }
+    ],
+    "additionalExperience": {
+      "title": "Research & Achievements",
+      "items": [
+        {
+          "company": "SwiftFrame",
+          "position": "Project",
+          "location": "Academic / Research",
+          "duration": "Jan 2024 - Feb 2024",
+          "responsibilities": [
+            "Developed real-time stream processing engine with Flink & Kafka, achieving 955MB/s throughput and 130ms latency",
+            "Simulated ingestion of 60K records/min and persisted data to PostgreSQL with Grafana monitoring",
+            "Published research paper at ICCCNT 2024"
+          ]
+        },
+        {
+          "company": "Hackathons & Awards",
+          "position": "Achievements",
+          "location": "India",
+          "duration": "2022 - 2025",
+          "responsibilities": [
+            "Won Cyware Hackathon 2025 by building an AI-powered SEO optimizer",
+            "Winner of Flipr Hackathon 18 (2023)",
+            "Completed Hacktoberfest 2022 contributing to multiple repositories",
+            "Solved 550+ problems on LeetCode and participated in Inter-NIT coding competition"
+          ]
+        }
+      ]
+    },
+    "backButton": {
+      "text": "← Back to Home",
+      "href": "/"
+    }
+  }
+  

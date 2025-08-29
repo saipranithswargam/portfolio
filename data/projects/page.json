@@ -1,0 +1,45 @@
+{
+  "title": "Creative Experiments",
+  "projects": [
+    {
+        "title": "SwiftFrame",
+        "tech": ["Apache Flink", "Kafka", "PostgreSQL", "Docker", "Python", "Grafana"],
+        "description": "A scalable real-time stream processing engine achieving 955MB/s throughput with 130ms latency, providing low-latency insights for data-intensive applications.",
+        "links": {
+          "github": "https://github.com/saipranithswargam/swift-framework",
+          "website": ""
+        },
+        "icon": "Activity"
+      },
+      {
+        "title": "Load-Balancer Simulation",
+        "tech": ["Docker Swarm", "NGINX", "Flask", "Python"],
+        "description": "A simulated load-balancer with round-robin and custom strategies, improving scalability by 30% using Docker Swarm and NGINX orchestration.",
+        "links": {
+          "github": "https://github.com/saipranithswargam/Load-balancer-simulation",
+          "website": ""
+        },
+        "icon": "Server"
+      },
+      {
+        "title": "Travel Planner Pro",
+        "tech": ["Express.js", "TypeScript", "React.js", "MongoDB", "MapBox", "JWT"],
+        "description": "An itinerary planning app with interactive maps, reducing signup errors by 25% and boosting engagement by 30%.",
+        "links": {
+          "github": "",
+          "website": "https://golden-zabaione-725504.netlify.app/"
+        },
+        "icon": "Map"
+      },
+      {
+        "title": "Centralised Healthcare System",
+        "tech": ["Express.js", "React.js", "Redux", "MongoDB", "Node.js", "Redis", "Swagger"],
+        "description": "A healthcare platform reducing server requests by 30% and improving responsiveness by 20%, with Redis caching and geospatial hospital search.",
+        "links": {
+          "github": "https://github.com/saipranithswargam/FSD",
+          "website": ""
+        },
+        "icon": "HeartPulse"
+      }
+  ]
+}
