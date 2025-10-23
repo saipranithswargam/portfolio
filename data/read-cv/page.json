@@ -1,11 +1,11 @@
 {
   "resume": {
-    "iframeSrc": "/saipranith_resume_v6.pdf",
+    "iframeSrc": "/saipranith_resume_v7.pdf",
     "title": "My Resume"
   },
   "fallback": {
     "text": "Having trouble viewing?",
     "linkText": "Open the PDF in a new tab",
-    "linkHref": "/saipranith_resume_v6.pdf"
+    "linkHref": "/saipranith_resume_v7.pdf"
   }
 }
