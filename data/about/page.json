@@ -4,7 +4,7 @@
   },
   "background": {
     "title": "Background",
-    "description": "B.Tech in Computer Science from IIIT Sricity. Builder at heart. I've shipped mobile apps, scalable cloud systems, and real-time platforms. From architecting observability that reduced customer issues, to designing stream engines pushing 955MB/s, to scaling order systems that handled 1000+ live transactions — I thrive at the intersection of backend, cloud, and product. I've worked across Flutter, Next.js, Docker, Kafka, and GCP/AWS, turning complex stacks into reliable, user-first solutions."
+    "description": "B.Tech in Computer Science from IIIT Sricity. Software engineer with experience building and scaling backend and cloud-native systems where performance, efficiency, and reliability are critical. I’ve contributed to redesigning systems to support 10× growth in data and traffic and improving AI-driven workflows to achieve ~90% cost reduction. Experienced across multiple technology stacks including Go, Docker, Kafka, Flutter, Next.js, and AWS/GCP, with a strong ability to adapt quickly and deliver stable, production-ready solutions."
   },
   "skills": [
     {
@@ -35,13 +35,15 @@
         "Kafka",
         "Flutter",
         "Celery",
-        "Next.js"
+        "Next.js",
+        "Nats"
       ]
     },
     {
       "title": "Tools & Platforms",
       "items": [
         "Docker",
+        "Kubernetes",
         "AWS",
         "GCP",
         "Firebase",
@@ -54,11 +56,11 @@
   "sections": [
     {
       "title": "How I Think",
-      "description": "I approach problems like systems — break them down, design for scale, and keep the user experience at the center. Whether it' tuning APIs for faster responses, wiring up observability that prevents customer pain, or balancing clean code with delivery speed, I focus on building things that are reliable, explainable, and built to grow."
+      "description": "I approach problems like systems — break them down, design for scale, and keep the user experience at the center. Whether it’s tuning APIs for faster responses, making cost-efficient architectural decisions, or balancing clean code with delivery speed, I focus on building things that are reliable, explainable, and built to grow."
     },
     {
       "title": "What I've Shipped",
-      "description": "Mobile features that boosted engagement, a Next.js site that cut costs by 25%, real-time order systems powering thousands of transactions, and a streaming engine that pushed nearly a gigabyte per second. I’ve shipped across Flutter, Docker, Kafka, and GCP/AWS — from hackathon-winning AI SEO tools to full-stack apps that people actually use."
+      "description": "Mobile features that boosted engagement, a Next.js platform that cut operational costs by 25%, backend systems redesigned to handle 10× data growth, AI workflows optimized to reduce inference costs by ~90%, real-time order platforms powering thousands of transactions, and a streaming engine pushing nearly a gigabyte per second. I’ve shipped across Flutter, Go, Docker, Kafka, and GCP/AWS — from hackathon-winning AI tools to production systems used at scale."
     }
   ],
   "connect": {
