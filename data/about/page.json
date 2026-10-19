@@ -4,63 +4,74 @@
   },
   "background": {
     "title": "Background",
-    "description": "B.Tech in Computer Science from IIIT Sricity. Software engineer with experience building and scaling backend and cloud-native systems where performance, efficiency, and reliability are critical. I’ve contributed to redesigning systems to support 10× growth in data and traffic and improving AI-driven workflows to achieve ~90% cost reduction. Experienced across multiple technology stacks including Go, Docker, Kafka, Flutter, Next.js, and AWS/GCP, with a strong ability to adapt quickly and deliver stable, production-ready solutions."
+    "description": "B.Tech in Computer Science from IIIT Sri City (CGPA 8.74). Backend engineer at Cyware since Dec 2024 (intern, then Software Engineer I), building multi-tenant SaaS services in Python and Go on Kafka, Elasticsearch, PostgreSQL and Kubernetes. I own work from design through rollout and production monitoring, and I measure the result: faster APIs, leaner pipelines, fewer failures."
   },
   "skills": [
     {
-      "title": "Languages & Databases",
+      "title": "Languages",
       "items": [
         "Python",
-        "C",
-        "C++",
-        "JavaScript",
-        "Java",
         "Go",
-        "MySQL",
-        "MongoDB",
-        "Redis",
-        "PostgreSQL",
+        "TypeScript",
+        "JavaScript",
+        "SQL",
+        "Java",
+        "C++",
         "Dart"
       ]
     },
     {
-      "title": "Frameworks & Libraries",
+      "title": "Backend & Data",
       "items": [
-        "React.js",
-        "Node.js",
         "Django",
-        "Socket.IO",
-        "Pandas",
-        "Flink",
-        "Kafka",
-        "Flutter",
+        "REST APIs",
         "Celery",
-        "Next.js",
-        "Nats"
+        "Kafka",
+        "NATS JetStream",
+        "Elasticsearch",
+        "PostgreSQL",
+        "ClickHouse",
+        "Redis",
+        "MySQL",
+        "MongoDB",
+        "Apache Flink"
       ]
     },
     {
-      "title": "Tools & Platforms",
+      "title": "Infra & Observability",
       "items": [
-        "Docker",
         "Kubernetes",
+        "Docker",
+        "Helm",
+        "Argo CD",
+        "GitHub Actions",
         "AWS",
         "GCP",
-        "Firebase",
-        "Git",
-        "Netlify",
-        "DigitalOcean"
+        "OpenTelemetry",
+        "Prometheus",
+        "Grafana"
+      ]
+    },
+    {
+      "title": "Frontend & Other",
+      "items": [
+        "Next.js",
+        "React",
+        "Node.js",
+        "WebSockets",
+        "Flutter",
+        "Claude Code"
       ]
     }
   ],
   "sections": [
     {
       "title": "How I Think",
-      "description": "I approach problems like systems — break them down, design for scale, and keep the user experience at the center. Whether it’s tuning APIs for faster responses, making cost-efficient architectural decisions, or balancing clean code with delivery speed, I focus on building things that are reliable, explainable, and built to grow."
+      "description": "Measure before changing anything. I break a slow or flaky system into its parts, find where the time or the failures actually go, fix that, and prove the fix with before/after numbers. I write the plan down first, and I ship with metrics and alerts so the next problem shows up before a customer reports it."
     },
     {
       "title": "What I've Shipped",
-      "description": "Mobile features that boosted engagement, a Next.js platform that cut operational costs by 25%, backend systems redesigned to handle 10× data growth, AI workflows optimized to reduce inference costs by ~90%, real-time order platforms powering thousands of transactions, and a streaming engine pushing nearly a gigabyte per second. I’ve shipped across Flutter, Go, Docker, Kafka, and GCP/AWS — from hackathon-winning AI tools to production systems used at scale."
+      "description": "An API cut from 4.2 s to 385 ms on a 10M-document dataset. A Kafka ingestion service that sends 6x fewer messages and 2.4x less data. A resumable data-seeding pipeline that loads 155k records with zero failed batches. Go services instrumented across 6 production clusters. An agentic AI workflow using 90% fewer LLM tokens. Plus a streaming engine reaching 955 MB/s, published at ICCCNT 2024."
     }
   ],
   "connect": {

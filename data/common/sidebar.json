@@ -1,60 +1,59 @@
 {
-    "profileData": {
-      "name": "Saipranith Swargam",
-      "tagline": "Software Engineer 👨‍💻",
-      "avatarSrc": "/images/avatar.jpg"
+  "profileData": {
+    "name": "Saipranith Swargam",
+    "tagline": "Backend Engineer 👨‍💻",
+    "avatarSrc": "/images/avatar.jpg"
+  },
+  "navigationData": [
+    {
+      "title": "Explore",
+      "items": [
+        {
+          "href": "/about",
+          "label": "About"
+        },
+        {
+          "href": "/work",
+          "label": "Work"
+        },
+        {
+          "href": "/projects",
+          "label": "Projects"
+        },
+        {
+          "href": "/contact",
+          "label": "Get In Touch"
+        }
+      ]
     },
-    "navigationData": [
-      {
-        "title": "Explore",
-        "items": [
-          {
-            "href": "/about",
-            "label": "About"
-          },
-          {
-            "href": "/work",
-            "label": "Work"
-          },
-          {
-            "href": "/projects",
-            "label": "Projects"
-          },
-          {
-            "href": "/contact",
-            "label": "Get In Touch"
-          }
-        ]
-      },
-      {
-        "title": "Quick Links",
-        "items": [
-          {
-            "href": "https://x.com/saipranith0612",
-            "label": "Twitter / X",
-            "open_in_new": true
-          },
-          {
-            "href": "https://linkedin.com/in/saipranithswargam",
-            "label": "LinkedIn",
-            "open_in_new": true
-          },
-          {
-             "href": "https://github.com/saipranithswargam",
-            "label": "Github",
-            "open_in_new": true
-          },
-          {
-            "href": "/read-cv",
-            "label": "Read CV"
-          },
-          {
-            "href": "https://leetcode.com/saipranithswargam/",
-            "label": "Leetcode",
-            "open_in_new": true
-          }
-        ]
-      }
-    ]
-  }
-  
+    {
+      "title": "Quick Links",
+      "items": [
+        {
+          "href": "https://x.com/saipranith0612",
+          "label": "Twitter / X",
+          "open_in_new": true
+        },
+        {
+          "href": "https://linkedin.com/in/saipranithswargam",
+          "label": "LinkedIn",
+          "open_in_new": true
+        },
+        {
+          "href": "https://github.com/saipranithswargam",
+          "label": "Github",
+          "open_in_new": true
+        },
+        {
+          "href": "/read-cv",
+          "label": "Read CV"
+        },
+        {
+          "href": "https://leetcode.com/saipranithswargam/",
+          "label": "Leetcode",
+          "open_in_new": true
+        }
+      ]
+    }
+  ]
+}
